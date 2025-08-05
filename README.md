@@ -8,15 +8,24 @@
   <head>
     <!-- <meta>-->
     <!--Icons-->
-    <link rel="shortcut icon" href="" type="image/x-icon">
-      <link rel="shortcut icon" href="/build/images/favicon.eab6deff.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="C:\Users\Meghan Carr\Desktop\Meghan - ALL til OneDrive\CodeCrew\HTML2_Website_Wire_1-1-2\Footprints_GBHeron_cat_human.JPG" type="image/x-icon">
+    <!--<div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-nav">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        -->
+    <!--<script>-->
     <!--<style>-->
-    <!--<style>-->
-  
   </head>
 
-
   <body> 
-  
+    <h1 class="custom-header">HTML Day 2</h1>
+    <p> Today we are learning some additional html elments used to structure content on a page. We will make ordered lists, unordered lists, and a table. </p>
+    <img alt="TBD Weather image" src="">
+
   </body>
 </html>
